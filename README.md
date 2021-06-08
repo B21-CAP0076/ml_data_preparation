@@ -54,5 +54,5 @@ There are two ways to run this notebook. By using **Google Colab** or run it on 
 - conda install jupyter
 - jupyter notebook  
 ```
-10. Open Data_Preprocessing_for_Initial_Cluster_Dataset.ipynb
-11. Now, you can run this notebook through Jupyter Notebook! Happy Hacking!
+9. Open Data_Preprocessing_for_Initial_Cluster_Dataset.ipynb
+10. Now, you can run this notebook through Jupyter Notebook! Happy Hacking!
